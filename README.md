@@ -1,4 +1,5 @@
-Executive Summary This project analyzes user behavior across 5,000+ accounts to identify the primary drivers of churn and the characteristics of "Power Users." By bridging feature-level event data with account-level outcomes, I isolated a "Safety Zone" of 400+ days tenure and audited the impact of experimental (Beta) features on long-term retention.
+**Executive Summary **
+This project analyzes user behavior across 5,000+ accounts to identify the primary drivers of churn and the characteristics of "Power Users." By bridging feature-level event data with account-level outcomes, I isolated a "Safety Zone" of 400+ days tenure and audited the impact of experimental (Beta) features on long-term retention.
 
 The "Churn Gap" & Tenure Analysis Using a custom-engineered tenure calculation, I identified a significant "Value Gap" in the first 250 days.
 Average Churned Tenure: ~250 days.
